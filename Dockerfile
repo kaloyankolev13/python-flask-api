@@ -1,5 +1,5 @@
 FROM python:3.11
-EXPOSE 5000
+EXPOSE 6000
 WORKDIR /app
 RUN pip install flask
 
